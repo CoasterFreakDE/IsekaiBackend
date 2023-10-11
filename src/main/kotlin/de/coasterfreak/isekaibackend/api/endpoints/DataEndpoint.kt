@@ -30,6 +30,8 @@ class DataEndpoint : Handler {
                 ?.let { filters.add(Anime::licenseStatus / LicenseStatus::isLicensed eq (it == "Licensed")) }
             ctx.queryParam("language")?.let { filters.add(Anime::languages / Language::language eq it) }
 
+            ctx.queryParam("searchString")?.let { filters.add(Anime::title regex Regex(it, RegexOption.IGNORE_CASE)) }
+
             // Erstellung der Abfrage mit allen Filtern
             val query = if (filters.isNotEmpty()) collection.find(and(filters)) else collection.find()
 
