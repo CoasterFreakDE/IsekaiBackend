@@ -3,8 +3,8 @@ import com.mongodb.client.MongoClient
 import com.mongodb.client.MongoDatabase
 import de.coasterfreak.isekaibackend.model.Anime
 import dev.fruxz.ascend.extension.logging.getItsLogger
-import io.javalin.plugin.bundled.RouteOverviewUtil.metaInfo
-import org.litote.kmongo.*
+import org.litote.kmongo.KMongo
+import org.litote.kmongo.getCollection
 import java.net.URLEncoder
 
 object MongoDbHelper {
