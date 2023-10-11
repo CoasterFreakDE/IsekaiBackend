@@ -2,7 +2,7 @@
 <h3 align="center">IsekaiBackend</h3>
 
   <p align="center">
-    A backend for the Isekai Discord Bot and Website
+    A backend for the Isekai Discord Bot and <a href="https://github.com/CoasterFreakDE/AnimeDatabase">AnimeDatabase</a> <a href="https://coasterfreak.de/anime">Website</a>
     <br />
     <br />
   </p>
