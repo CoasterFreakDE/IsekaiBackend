@@ -1,11 +1,9 @@
 package de.coasterfreak.isekaibackend.api.endpoints
 
-import de.coasterfreak.isekaibackend.model.*
 import de.coasterfreak.isekaibackend.utils.MongoDbHelper
 import io.javalin.http.Context
 import io.javalin.http.Handler
 import org.litote.kmongo.distinct
-import org.litote.kmongo.div
 
 class FiltersEndpoint : Handler {
     override fun handle(ctx: Context) {
