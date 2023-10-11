@@ -1,0 +1,65 @@
+{
+  "title": "Sword Art Online",
+  "description": "In the year 2022, a next-generation virtual reality online role-playing game called Sword Art Online takes the world by storm. However, players soon realize they cannot log out; the game's creator has trapped them until they complete all levels.",
+  "seasons": 2,
+  "episodes": 49,
+  "streamLink": "https://www.crunchyroll.com/sword-art-online",
+  "protagonist": {
+    "gender": "Male",
+    "age": 16,
+    "opLevel": "High"
+  },
+  "tags": {
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "mood": [
+      "Exciting",
+      "Dramatic"
+    ],
+    "era": "Near Future"
+  },
+  "originCountry": "Japan",
+  "releaseDate": 1343760000,
+  "studio": "A-1 Pictures",
+  "rating": 7.3,
+  "licenseStatus": {
+    "isLicensed": true,
+    "regions": [
+      "US",
+      "JP",
+      "EU"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Japanese",
+      "sub": true,
+      "dub": true
+    },
+    {
+      "language": "English",
+      "sub": true,
+      "dub": true
+    },
+    {
+      "language": "German",
+      "sub": false,
+      "dub": true
+    }
+  ],
+  "characters": [
+    {
+      "name": "Kirito",
+      "role": "Protagonist",
+      "description": "A skilled player who is determined to escape from Sword Art Online."
+    },
+    {
+      "name": "Asuna",
+      "role": "Deuteragonist",
+      "description": "A strong, kind-hearted player who becomes Kirito's partner."
+    }
+  ]
+}

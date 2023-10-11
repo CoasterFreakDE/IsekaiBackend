@@ -1,0 +1,65 @@
+{
+  "title": "Attack on Titan",
+  "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures, the story follows Eren Yeager and his friends who join the military to fight the Titans.",
+  "seasons": 4,
+  "episodes": 75,
+  "streamLink": "https://www.crunchyroll.com/attack-on-titan",
+  "protagonist": {
+    "gender": "Male",
+    "age": 15,
+    "opLevel": "Medium"
+  },
+  "tags": {
+    "genre": [
+      "Action",
+      "Military",
+      "Mystery"
+    ],
+    "mood": [
+      "Dark",
+      "Thrilling"
+    ],
+    "era": "Alternate History"
+  },
+  "originCountry": "Japan",
+  "releaseDate": 1367788800,
+  "studio": "WIT Studio",
+  "rating": 8.9,
+  "licenseStatus": {
+    "isLicensed": true,
+    "regions": [
+      "US",
+      "JP",
+      "EU"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Japanese",
+      "sub": true,
+      "dub": true
+    },
+    {
+      "language": "English",
+      "sub": true,
+      "dub": true
+    }
+  ],
+  "characters": [
+    {
+      "name": "Eren Yeager",
+      "role": "Protagonist",
+      "description": "A former member of the Scout Regiment who vowed to exterminate the Titans."
+    },
+    {
+      "name": "Mikasa Ackerman",
+      "role": "Deuteragonist",
+      "description": "Eren's adoptive sister and one of the series' most skilled soldiers."
+    },
+    {
+      "name": "Armin Arlert",
+      "role": "Tritagonist",
+      "description": "Eren's childhood friend who joins him in the fight against the Titans."
+    }
+  ]
+}
