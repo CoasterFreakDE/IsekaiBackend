@@ -19,7 +19,7 @@ repositories {
 }
 
 val shadowDependencies = listOf(
-    "io.javalin:javalin-bundle:5.6.2",
+    "io.javalin:javalin-bundle:5.6.3",
     "com.google.code.gson:gson:2.10.1",
 
     "org.litote.kmongo:kmongo:4.10.0",
