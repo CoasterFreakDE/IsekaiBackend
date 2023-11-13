@@ -23,7 +23,7 @@ val shadowDependencies = listOf(
     "com.google.code.gson:gson:2.10.1",
 
     "org.litote.kmongo:kmongo:4.10.0",
-    "org.litote.kmongo:kmongo-coroutine:4.10.0",
+    "org.litote.kmongo:kmongo-coroutine:4.11.0",
 
     "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0",
 
