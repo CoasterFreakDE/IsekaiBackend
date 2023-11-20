@@ -25,7 +25,7 @@ val shadowDependencies = listOf(
     "org.litote.kmongo:kmongo:4.10.0",
     "org.litote.kmongo:kmongo-coroutine:4.10.0",
 
-    "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0",
+    "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.1",
 
     "com.github.TheFruxz:Ascend:2023.3",
     "io.github.cdimascio:dotenv-kotlin:6.4.1",
